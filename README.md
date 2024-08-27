@@ -1,3 +1,3 @@
-# BIENVENIDO AL ENCRIPTADOR
+# ES MI PRIMERA VEZ HACIENDO UN ENCRIPTADOR
 
-El siguiente archivo son los códigos con los que realice mi primer proyecto de programación,  la previsualización directa la puede encontrar [aqui](https://diegollanosr.github.io/encriptadorONE/); o tambien, puedes probar la segunda versión mejorada en mi portafolio  ingresando [aquí](https://diegollanosr.github.io/)
+la verdad esperaba algo mejor, pero es lo que se pudo hacer, de hecho mi esto estaba quedando genial pero bueno ahi va el intento 
